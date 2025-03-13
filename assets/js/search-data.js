@@ -34,7 +34,12 @@ ninja.data = [{
           window.location.href = "/blog/2021/distill/";
         
       },
-    },{id: "books-a-shot-at-history",
+    },{id: "books-a-short-history-of-nearly-everything",
+          title: 'A Short History of Nearly Everything',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_short_history_of_nearly_everything/";
+            },},{id: "books-a-shot-at-history",
           title: 'A Shot at History',
           description: "",
           section: "Books",handler: () => {
@@ -44,16 +49,46 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/animal_farm/";
+            },},{id: "books-atomic-habits",
+          title: 'Atomic Habits',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/atomic_habits/";
+            },},{id: "books-elon-musk",
+          title: 'Elon Musk',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/elon_musk/";
             },},{id: "books-mind-master",
           title: 'Mind Master',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mind_master/";
+            },},{id: "books-my-tale-of-four-cities",
+          title: 'My Tale of Four Cities',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/my_tale_of_four_cities/";
+            },},{id: "books-no-limits-the-will-to-succeed",
+          title: 'No Limits: The Will to Succeed',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/no_limits/";
             },},{id: "books-shoe-dog",
           title: 'Shoe Dog',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/shoe_dog/";
+            },},{id: "books-to-kill-a-mockingbird",
+          title: 'To Kill a Mockingbird',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/to_kill_a_mocking_bird/";
+            },},{id: "books-the-return-of-vaman",
+          title: 'The Return of Vaman',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vaman/";
             },},{id: "books-surely-you-39-re-joking-mr-feynman",
           title: 'Surely You&amp;#39;re Joking, Mr. Feynman!',
           description: "",
