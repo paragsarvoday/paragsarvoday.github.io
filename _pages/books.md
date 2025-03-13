@@ -6,7 +6,7 @@ nav: true
 collection: books
 ---
 
-> Our constant companions be it sunshine or snow. This contains my experiences with the books I managed to befriend.
+> Books are our constant companions be it snow or sunshine. This contains my experiences with the books I managed to befriend.
 >
 <!-- > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980) -->
 

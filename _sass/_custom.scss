@@ -1,0 +1,62 @@
+// Custom navbar icon sizes
+.navbar-brand.social {
+  padding-bottom: 0;
+  padding-top: 0;
+  font-size: 1rem;  // Even smaller, decrease from 1.3rem to 1rem
+  
+  a {
+    img {
+      width: 1rem !important;  // Smaller than previous 1.3rem
+      height: 1rem !important; 
+      margin-bottom: 0.3rem;
+    }
+    
+    svg {
+      width: 1rem !important;  
+      height: 1rem !important; 
+      margin-bottom: 0.3rem;
+      
+      image {
+        width: 1rem !important;  
+        height: 1rem !important; 
+      }
+    }
+    
+    i {
+      font-size: 1rem !important; // Smaller font size for Font Awesome icons
+    }
+  }
+}
+
+// Custom footer/social section icon sizes
+.social .contact-icons {
+  font-size: 2.2rem;  // Decrease from 3rem to 2.2rem
+  
+  a {
+    img {
+      width: 2rem !important;  // Smaller than previous 2.4rem
+      height: 2rem !important; 
+      margin-bottom: 0.6rem;
+    }
+    
+    svg {
+      width: 2rem !important;  // Smaller than previous 2.6rem
+      height: 2.2rem !important;   
+      margin-bottom: 0.3rem;
+      
+      image {
+        width: 2rem !important;  
+        height: 2rem !important; 
+      }
+    }
+    
+    i {
+      font-size: 2rem !important; // Smaller font size for Font Awesome icons
+    }
+  }
+}
+
+// Add some spacing between the icons to make them more readable when smaller
+.social .contact-icons a {
+  margin: 0 0.4rem;
+}
