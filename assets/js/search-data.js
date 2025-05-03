@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-distill-style-blog-post",
+        },{id: "post-on-singular-value-decomposition",
       
-        title: "a distill-style blog post",
+        title: "On Singular Value Decomposition",
       
-      description: "an example of a distill-style blog post and main elements",
+      description: "a small self-note on SVD",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/distill/";
+          window.location.href = "/blog/2025/distill/";
         
       },
     },{id: "books-a-short-history-of-nearly-everything",
