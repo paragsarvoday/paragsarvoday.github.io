@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-image-pyramids-and-corner-detection",
+        },{id: "post-a-cool-image-encryption-technique",
+      
+        title: "A cool image encryption technique",
+      
+      description: "putting bit-planes to good use",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/distill/";
+        
+      },
+    },{id: "post-image-pyramids-and-corner-detection",
       
         title: "Image Pyramids and Corner Detection",
       
