@@ -122,6 +122,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/vaman/";
+            },},{id: "books-when-breath-becomes-air",
+          title: 'When Breath Becomes Air',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/when_breath_becomes_air/";
             },},{id: "books-surely-you-39-re-joking-mr-feynman",
           title: 'Surely You&amp;#39;re Joking, Mr. Feynman!',
           description: "",
