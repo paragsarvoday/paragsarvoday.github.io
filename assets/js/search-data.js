@@ -34,28 +34,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/distill/";
         
       },
-    },{id: "post-image-pyramids-and-corner-detection",
-      
-        title: "Image Pyramids and Corner Detection",
-      
-      description: "Illustration of Gaussian pyramid and Harris Corner Detection from scratch",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/jupyter-notebook/";
-        
-      },
-    },{id: "post-edge-detection",
-      
-        title: "Edge detection",
-      
-      description: "Trying out edge detection with different kinds of noise",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/jupyter-notebook/";
-        
-      },
     },{id: "post-on-singular-value-decomposition",
       
         title: "On Singular Value Decomposition",
