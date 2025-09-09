@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-cool-image-encryption-technique",
+        },{id: "post-understanding-3d-gaussian-splatting",
+      
+        title: "Understanding 3D Gaussian Splatting",
+      
+      description: "an attempt to cover the knowledge gap",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/understanding-3d-gaussian-splatting/";
+        
+      },
+    },{id: "post-a-cool-image-encryption-technique",
       
         title: "A cool image encryption technique",
       
@@ -31,7 +42,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/distill/";
+          window.location.href = "/blog/2025/image-encryption-technique/";
         
       },
     },{id: "post-on-singular-value-decomposition",
@@ -42,7 +53,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/distill/";
+          window.location.href = "/blog/2025/singular-value-decomposition/";
         
       },
     },{id: "books-a-short-history-of-nearly-everything",
