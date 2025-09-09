@@ -31,7 +31,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/understanding-3d-gaussian-splatting/";
+          window.location.href = "/blog/2025/Understanding-3D-Gaussian-Splatting/";
         
       },
     },{id: "post-a-cool-image-encryption-technique",
@@ -197,6 +197,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/paragsarvoday", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=Lsg02oAAAAAJ", "_blank");
         },
       },{
         id: 'social-x',
