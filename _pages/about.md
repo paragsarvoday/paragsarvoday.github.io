@@ -26,12 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-IIT Gandhinagar, India. Learning **Computer Vision and Graphics**.
+IIT Gandhinagar, India. Learning **3D Computer Vision and Graphics**.
 
-Hey there! I am an undergraduate student at the Indian Institute of Technology Gandhinagar majoring in Electrical Engineering. I am currently interested in learning more about and working in computer vision and graphics. It was when I got an opportunity to work on a research paper on inverse rendering of translucent objects that I got exposed to these exciting fields. I have taken introductory courses in Computer Vision and Machine Learning at my institute and am rapidly enhancing my knowledge in these fields this summer.
-I have had a desire to do cutting-edge research from my school days, and I have finally figured out my field of choice. Hence, I intend to study further (get a master's or PhD) and contribute to Computer Vision, enabling machines to perceive the world just like humans (or even better!).
+Hey there! I am an undergraduate student at the Indian Institute of Technology Gandhinagar majoring in Electrical Engineering. I am currently interested in learning more about and working in computer vision and graphics. It was when I got an opportunity to work on a research paper on inverse rendering of translucent objects that I got exposed to these exciting fields. 
 
-I am currently studying about 3D Gaussian Splatting and how it can be used for inverse rendering.
+I have had a desire to do cutting-edge research from my school days, and I have finally figured out my field of choice. Hence, I intend to study further (get a master's or PhD) and contribute to 3D Computer Vision, enabling machines to perceive the world just like humans (or even better!).
+
+I am currently working in <a href="https://3dcomputervision.github.io/" target="_blank">3DVisLab</a> under the guidance on Prof. Avinash Sharma on identifying reflective symmetries in 3D shapes.
 
 <!-- A change here should be visible. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
