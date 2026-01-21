@@ -32,7 +32,6 @@ Hey there! I am an undergraduate student at the Indian Institute of Technology G
 
 I have had a desire to do cutting-edge research from my school days, and I have finally figured out my field of choice. Hence, I intend to study further (get a master's or PhD) and contribute to 3D Computer Vision, enabling machines to perceive the world just like humans (or even better!).
 
-I am currently working in <a href="https://3dcomputervision.github.io/" target="_blank">3DVisLab</a> under the guidance on Prof. Avinash Sharma on identifying reflective symmetries in 3D shapes.
 
 <!-- A change here should be visible. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
