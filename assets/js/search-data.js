@@ -121,16 +121,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/youre_joking_mrfeynman/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-tensois-got-accepted-in-the-cgf-journal-track-of-pacific-graphics-2025-the-very-first-published-work-which-i-contributed-to",
+          title: 'TensoIS got accepted in the CGF Journal Track of Pacific Graphics 2025. The...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-secured-2nd-position-in-the-3d-gaussian-splatting-challenge-at-siggraph-asia-2025-travelled-to-hong-kong-to-present-at-my-first-ever-conference",
+          title: 'Secured 2nd position in the 3D Gaussian Splatting Challenge at SIGGRAPH Asia 2025....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-got-awarded-the-indiaai-fellowship-by-the-government-of-india-i-will-be-working-on-exciting-inverse-rendering-problems-as-part-of-it",
+          title: 'Got awarded the IndiaAI fellowship by the Government of India. I will be...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
