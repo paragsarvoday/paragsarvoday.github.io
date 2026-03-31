@@ -101,6 +101,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/shoe_dog/";
+            },},{id: "books-the-worlds-i-see-curiosity-exploration-and-discovery-at-the-dawn-of-ai",
+          title: 'The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_worlds_i_see/";
             },},{id: "books-to-kill-a-mockingbird",
           title: 'To Kill a Mockingbird',
           description: "",
