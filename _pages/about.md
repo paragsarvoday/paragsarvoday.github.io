@@ -26,11 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-IIT Gandhinagar, India. Learning **3D Computer Vision and Graphics**.
+IIT Gandhinagar, India. Working on **3D Computer Vision and Graphics**.
 
-Hey there! I am an undergraduate student at the Indian Institute of Technology Gandhinagar majoring in Electrical Engineering. I am currently interested in learning more about and working in computer vision and graphics. It was when I got an opportunity to work on a research paper on inverse rendering of translucent objects that I got exposed to these exciting fields. 
+Hey there! I am a final-year researcher at the Indian Institute of Technology Gandhinagar majoring in Electrical Engineering. My work focuses on solving complex inverse problems to enable high-fidelity 3D and dynamic scene reconstruction.
 
-I have had a desire to do cutting-edge research from my school days, and I have finally figured out my field of choice. Hence, I intend to study further (get a master's or PhD) and contribute to 3D Computer Vision, enabling machines to perceive the world just like humans (or even better!).
+Currently, I am supported by the IndiaAI Fellowship, where I am developing multi-view photometric stereo frameworks using Gaussian primitives. Be it building pipelines for heterogeneous translucent media or optimizing real-time 3D Gaussian Splatting, my goal is to push the boundaries of spatial computing and machine perception.
+
+I am actively seeking research assistant or applied vision engineering roles for the upcoming academic year before transitioning into a PhD program.
 
 
 <!-- A change here should be visible. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
