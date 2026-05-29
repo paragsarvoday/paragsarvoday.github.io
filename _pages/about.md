@@ -32,8 +32,6 @@ Hey there! I am a final-year researcher at the Indian Institute of Technology Ga
 
 Currently, I am supported by the IndiaAI Fellowship, where I am developing multi-view photometric stereo frameworks using Gaussian primitives. Be it building pipelines for heterogeneous translucent media or optimizing real-time 3D Gaussian Splatting, my goal is to push the boundaries of spatial computing and machine perception.
 
-I am actively seeking research assistant or applied vision engineering roles for the upcoming academic year before transitioning into a PhD program.
-
 
 <!-- A change here should be visible. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
