@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got awarded the IndiaAI fellowship by the Government of India. I will be working on exciting inverse rendering problems as part of it!
+Awarded the IndiaAI fellowship by the Government of India. I will be working on exciting inverse rendering problems as part of it!

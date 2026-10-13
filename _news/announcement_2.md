@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Secured 2nd position in the [3D Gaussian Splatting Challenge](https://gaplab.cuhk.edu.cn/projects/gsRaceSIGA2025/index.html#evaluation) at SIGGRAPH Asia 2025. Travelled to Hong Kong to present at my first ever conference!
+Placed 2nd in the [3D Gaussian Splatting Challenge](https://gaplab.cuhk.edu.cn/projects/gsRaceSIGA2025/index.html#evaluation) at SIGGRAPH Asia 2025. Travelled to Hong Kong to present at my first ever conference!

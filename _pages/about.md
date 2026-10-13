@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate researcher.
+subtitle: MSc&T student in Visual & Creative AI at <a href='https://www.polytechnique.edu/'>École Polytechnique</a>. Seeking a research internship, March to August 2027.
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -26,11 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog  posts
 ---
 
-IIT Gandhinagar, India. Working on **3D Computer Vision and Graphics**.
+I am a master's student in Visual and Creative AI at [École Polytechnique](https://www.polytechnique.edu/), working on **3D computer vision and graphics**: inverse rendering, photometric stereo and Gaussian splatting.
+Before this, I studied Electrical Engineering at IIT Gandhinagar, where I worked with Prof. Shanmuganathan Raman as an IndiaAI Research Fellow.
+
+
+<!-- IIT Gandhinagar, India. Working on **3D Computer Vision and Graphics**.
 
 Hey there! I am a final-year researcher at the Indian Institute of Technology Gandhinagar majoring in Electrical Engineering. My work focuses on solving complex inverse problems to enable high-fidelity 3D and dynamic scene reconstruction.
 
-Currently, I am supported by the IndiaAI Fellowship, where I am developing multi-view photometric stereo frameworks using Gaussian primitives. Be it building pipelines for heterogeneous translucent media or optimizing real-time 3D Gaussian Splatting, my goal is to push the boundaries of spatial computing and machine perception.
+Currently, I am supported by the IndiaAI Fellowship, where I am developing multi-view photometric stereo frameworks using Gaussian primitives. Be it building pipelines for heterogeneous translucent media or optimizing real-time 3D Gaussian Splatting, my goal is to push the boundaries of spatial computing and machine perception. -->
 
 
 <!-- A change here should be visible. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
