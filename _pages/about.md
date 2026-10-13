@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc&T student in Visual & Creative AI at <a href='https://www.polytechnique.edu/'>École Polytechnique</a>. Seeking a research internship, March to August 2027.
+subtitle: MSc&T student in Visual & Creative AI at <a href='https://www.polytechnique.edu/'>École Polytechnique</a>. 
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -25,6 +25,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog  posts
 ---
+
+Seeking a research internship, March to August 2027.
 
 I am a master's student in Visual and Creative AI at [École Polytechnique](https://www.polytechnique.edu/), working on **3D computer vision and graphics**: inverse rendering, photometric stereo and Gaussian splatting.
 Before this, I studied Electrical Engineering at IIT Gandhinagar, where I worked with Prof. Shanmuganathan Raman as an IndiaAI Research Fellow.
