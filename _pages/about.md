@@ -28,7 +28,7 @@ latest_posts:
 
 Seeking a research internship, March to August 2027.
 
-I am a master's student in Visual and Creative AI at [École Polytechnique](https://www.polytechnique.edu/), working on **3D computer vision and graphics**: inverse rendering, photometric stereo and Gaussian splatting.
+I am a master's student in Visual and Creative AI at [École Polytechnique](https://www.polytechnique.edu/en), working on **3D computer vision and graphics**: inverse rendering, photometric stereo and Gaussian splatting.
 Before this, I studied Electrical Engineering at IIT Gandhinagar, where I worked with Prof. Shanmuganathan Raman as an IndiaAI Research Fellow.
 
 
