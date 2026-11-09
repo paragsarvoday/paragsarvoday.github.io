@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog  posts
 ---
 
-Seeking a research internship, March to August 2027.
+Seeking a research internship, 22 March - 17 September 2027.
 
 I am a master's student in Visual and Creative AI at [École Polytechnique](https://www.polytechnique.edu/en), working on **3D computer vision and graphics**: inverse rendering, photometric stereo and Gaussian splatting.
 Before this, I studied Electrical Engineering at IIT Gandhinagar, where I worked with Prof. Shanmuganathan Raman as an IndiaAI Research Fellow.
